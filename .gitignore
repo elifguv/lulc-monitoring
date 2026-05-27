@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Virtual Environments
+venv/
+__pycache__/
+
+# Massive AI Models 
+*.keras
+*.h5
+
+# Massive Satellite Data Folders
+bursa_raw_data_*/
+bursa_tiles_*/
