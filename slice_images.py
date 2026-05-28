@@ -22,6 +22,9 @@ def slice_city_map(input_folder, output_folder, tile_size=64):
 
     # Load the image using OpenCV
     image = cv2.imread(image_path)
+    if image is None:
+        print(f"Failed to load image at {image_path}. File may be corrupt.")
+        return
     
     # Convert images to RGB
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)

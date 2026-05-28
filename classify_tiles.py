@@ -23,7 +23,9 @@ def classify_city(folder_path, output_json, model):
         print(f"Folder not found: {folder_path}")
         return
         
-    image_files = [f for f in os.listdir(folder_path) if f.endswith('.png')]
+    image_files = sorted(
+        [f for f in os.listdir(folder_path) if f.endswith('.png')]  
+    )
     
     if len(image_files) == 0:
         print(f"No images found in {folder_path}")

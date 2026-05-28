@@ -55,4 +55,5 @@ def generate_classification_map(json_file, title):
     plt.show()
 
 if __name__ == "__main__":
+    generate_classification_map('classification_2020.json', 'Bursa LULC Classification - 2020')
     generate_classification_map('classification_2025.json', 'Bursa LULC Classification - 2025')

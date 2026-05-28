@@ -5,4914 +5,5616 @@
             "col": 0,
             "filename": "tile_row000_col000.png",
             "predicted_class": "AnnualCrop",
-            "confidence": 48.98
+            "confidence": 48.98,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 1,
             "filename": "tile_row000_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.53
+            "confidence": 99.53,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 2,
             "filename": "tile_row000_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.86
+            "confidence": 98.86,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 3,
             "filename": "tile_row000_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.65
+            "confidence": 99.65,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 4,
             "filename": "tile_row000_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.82
+            "confidence": 99.82,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 5,
             "filename": "tile_row000_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 97.33
+            "confidence": 97.33,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 6,
             "filename": "tile_row000_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 96.96
+            "confidence": 96.96,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 7,
             "filename": "tile_row000_col007.png",
             "predicted_class": "Highway",
-            "confidence": 65.5
+            "confidence": 65.5,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 8,
             "filename": "tile_row000_col008.png",
             "predicted_class": "AnnualCrop",
-            "confidence": 92.41
+            "confidence": 92.41,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 9,
             "filename": "tile_row000_col009.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 10,
             "filename": "tile_row000_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 42.55
+            "confidence": 42.55,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 11,
             "filename": "tile_row000_col011.png",
             "predicted_class": "Residential",
-            "confidence": 88.9
+            "confidence": 88.9,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 12,
             "filename": "tile_row000_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 13,
             "filename": "tile_row000_col013.png",
             "predicted_class": "Industrial",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 14,
             "filename": "tile_row000_col014.png",
             "predicted_class": "Industrial",
-            "confidence": 74.38
+            "confidence": 74.38,
+            "district": "Nilüfer"
         },
         {
             "row": 0,
             "col": 15,
             "filename": "tile_row000_col015.png",
             "predicted_class": "Residential",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 16,
             "filename": "tile_row000_col016.png",
             "predicted_class": "Residential",
-            "confidence": 85.5
+            "confidence": 85.5,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 17,
             "filename": "tile_row000_col017.png",
             "predicted_class": "Residential",
-            "confidence": 88.48
+            "confidence": 88.48,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 18,
             "filename": "tile_row000_col018.png",
             "predicted_class": "Residential",
-            "confidence": 99.56
+            "confidence": 99.56,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 19,
             "filename": "tile_row000_col019.png",
             "predicted_class": "Residential",
-            "confidence": 99.78
+            "confidence": 99.78,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 20,
             "filename": "tile_row000_col020.png",
             "predicted_class": "Residential",
-            "confidence": 98.82
+            "confidence": 98.82,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 21,
             "filename": "tile_row000_col021.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 22,
             "filename": "tile_row000_col022.png",
             "predicted_class": "Highway",
-            "confidence": 99.72
+            "confidence": 99.72,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 23,
             "filename": "tile_row000_col023.png",
             "predicted_class": "Residential",
-            "confidence": 90.11
+            "confidence": 90.11,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 24,
             "filename": "tile_row000_col024.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 87.54
+            "confidence": 87.54,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 25,
             "filename": "tile_row000_col025.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 95.65
+            "confidence": 95.65,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 26,
             "filename": "tile_row000_col026.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 52.36
+            "confidence": 52.36,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 27,
             "filename": "tile_row000_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 62.69
+            "confidence": 62.69,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 28,
             "filename": "tile_row000_col028.png",
             "predicted_class": "Residential",
-            "confidence": 99.07
+            "confidence": 99.07,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 29,
             "filename": "tile_row000_col029.png",
             "predicted_class": "Industrial",
-            "confidence": 60.58
+            "confidence": 60.58,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 30,
             "filename": "tile_row000_col030.png",
             "predicted_class": "Industrial",
-            "confidence": 67.98
+            "confidence": 67.98,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 31,
             "filename": "tile_row000_col031.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 50.75
+            "confidence": 50.75,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 32,
             "filename": "tile_row000_col032.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 49.17
+            "confidence": 49.17,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 33,
             "filename": "tile_row000_col033.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.79
+            "confidence": 99.79,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 34,
             "filename": "tile_row000_col034.png",
             "predicted_class": "Highway",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 35,
             "filename": "tile_row000_col035.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.25
+            "confidence": 99.25,
+            "district": "Osmangazi"
         },
         {
             "row": 0,
             "col": 36,
             "filename": "tile_row000_col036.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 98.04
+            "confidence": 98.04,
+            "district": "Yıldırım"
         },
         {
             "row": 0,
             "col": 37,
             "filename": "tile_row000_col037.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.65
+            "confidence": 96.65,
+            "district": "Yıldırım"
         },
         {
             "row": 0,
             "col": 38,
             "filename": "tile_row000_col038.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 90.67
+            "confidence": 90.67,
+            "district": "Gürsu"
         },
         {
             "row": 1,
             "col": 0,
             "filename": "tile_row001_col000.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 82.83
+            "confidence": 82.83,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 1,
             "filename": "tile_row001_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 59.01
+            "confidence": 59.01,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 2,
             "filename": "tile_row001_col002.png",
             "predicted_class": "AnnualCrop",
-            "confidence": 51.92
+            "confidence": 51.92,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 3,
             "filename": "tile_row001_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 89.57
+            "confidence": 89.57,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 4,
             "filename": "tile_row001_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.76
+            "confidence": 96.76,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 5,
             "filename": "tile_row001_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.1
+            "confidence": 99.1,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 6,
             "filename": "tile_row001_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.37
+            "confidence": 99.37,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 7,
             "filename": "tile_row001_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 94.91
+            "confidence": 94.91,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 8,
             "filename": "tile_row001_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 95.12
+            "confidence": 95.12,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 9,
             "filename": "tile_row001_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 10,
             "filename": "tile_row001_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 99.86
+            "confidence": 99.86,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 11,
             "filename": "tile_row001_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 84.79
+            "confidence": 84.79,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 12,
             "filename": "tile_row001_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 13,
             "filename": "tile_row001_col013.png",
             "predicted_class": "Industrial",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 14,
             "filename": "tile_row001_col014.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 15,
             "filename": "tile_row001_col015.png",
             "predicted_class": "Industrial",
-            "confidence": 94.66
+            "confidence": 94.66,
+            "district": "Nilüfer"
         },
         {
             "row": 1,
             "col": 16,
             "filename": "tile_row001_col016.png",
             "predicted_class": "Residential",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 17,
             "filename": "tile_row001_col017.png",
             "predicted_class": "Residential",
-            "confidence": 98.95
+            "confidence": 98.95,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 18,
             "filename": "tile_row001_col018.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 19,
             "filename": "tile_row001_col019.png",
             "predicted_class": "Residential",
-            "confidence": 99.64
+            "confidence": 99.64,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 20,
             "filename": "tile_row001_col020.png",
             "predicted_class": "Highway",
-            "confidence": 92.15
+            "confidence": 92.15,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 21,
             "filename": "tile_row001_col021.png",
             "predicted_class": "Residential",
-            "confidence": 76.82
+            "confidence": 76.82,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 22,
             "filename": "tile_row001_col022.png",
             "predicted_class": "Highway",
-            "confidence": 47.36
+            "confidence": 47.36,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 23,
             "filename": "tile_row001_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.12
+            "confidence": 98.12,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 24,
             "filename": "tile_row001_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 83.55
+            "confidence": 83.55,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 25,
             "filename": "tile_row001_col025.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 69.43
+            "confidence": 69.43,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 26,
             "filename": "tile_row001_col026.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 27,
             "filename": "tile_row001_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 78.2
+            "confidence": 78.2,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 28,
             "filename": "tile_row001_col028.png",
             "predicted_class": "Residential",
-            "confidence": 50.17
+            "confidence": 50.17,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 29,
             "filename": "tile_row001_col029.png",
             "predicted_class": "Industrial",
-            "confidence": 80.92
+            "confidence": 80.92,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 30,
             "filename": "tile_row001_col030.png",
             "predicted_class": "Residential",
-            "confidence": 97.99
+            "confidence": 97.99,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 31,
             "filename": "tile_row001_col031.png",
             "predicted_class": "Industrial",
-            "confidence": 63.68
+            "confidence": 63.68,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 32,
             "filename": "tile_row001_col032.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.82
+            "confidence": 97.82,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 33,
             "filename": "tile_row001_col033.png",
             "predicted_class": "Highway",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 34,
             "filename": "tile_row001_col034.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 47.12
+            "confidence": 47.12,
+            "district": "Osmangazi"
         },
         {
             "row": 1,
             "col": 35,
             "filename": "tile_row001_col035.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 81.59
+            "confidence": 81.59,
+            "district": "Yıldırım"
         },
         {
             "row": 1,
             "col": 36,
             "filename": "tile_row001_col036.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 74.61
+            "confidence": 74.61,
+            "district": "Yıldırım"
         },
         {
             "row": 1,
             "col": 37,
             "filename": "tile_row001_col037.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.08
+            "confidence": 95.08,
+            "district": "Yıldırım"
         },
         {
             "row": 1,
             "col": 38,
             "filename": "tile_row001_col038.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 56.66
+            "confidence": 56.66,
+            "district": "Gürsu"
         },
         {
             "row": 2,
             "col": 0,
             "filename": "tile_row002_col000.png",
             "predicted_class": "Highway",
-            "confidence": 57.39
+            "confidence": 57.39,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 1,
             "filename": "tile_row002_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 72.21
+            "confidence": 72.21,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 2,
             "filename": "tile_row002_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.85
+            "confidence": 98.85,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 3,
             "filename": "tile_row002_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 4,
             "filename": "tile_row002_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 90.73
+            "confidence": 90.73,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 5,
             "filename": "tile_row002_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.81
+            "confidence": 99.81,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 6,
             "filename": "tile_row002_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 89.37
+            "confidence": 89.37,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 7,
             "filename": "tile_row002_col007.png",
             "predicted_class": "Residential",
-            "confidence": 90.27
+            "confidence": 90.27,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 8,
             "filename": "tile_row002_col008.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 55.95
+            "confidence": 55.95,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 9,
             "filename": "tile_row002_col009.png",
             "predicted_class": "Highway",
-            "confidence": 99.02
+            "confidence": 99.02,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 10,
             "filename": "tile_row002_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 11,
             "filename": "tile_row002_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 12,
             "filename": "tile_row002_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 13,
             "filename": "tile_row002_col013.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 14,
             "filename": "tile_row002_col014.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 15,
             "filename": "tile_row002_col015.png",
             "predicted_class": "Industrial",
-            "confidence": 90.55
+            "confidence": 90.55,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 16,
             "filename": "tile_row002_col016.png",
             "predicted_class": "Highway",
-            "confidence": 58.12
+            "confidence": 58.12,
+            "district": "Nilüfer"
         },
         {
             "row": 2,
             "col": 17,
             "filename": "tile_row002_col017.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 18,
             "filename": "tile_row002_col018.png",
             "predicted_class": "Residential",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 19,
             "filename": "tile_row002_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 60.64
+            "confidence": 60.64,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 20,
             "filename": "tile_row002_col020.png",
             "predicted_class": "Highway",
-            "confidence": 96.26
+            "confidence": 96.26,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 21,
             "filename": "tile_row002_col021.png",
             "predicted_class": "Highway",
-            "confidence": 98.28
+            "confidence": 98.28,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 22,
             "filename": "tile_row002_col022.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 95.43
+            "confidence": 95.43,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 23,
             "filename": "tile_row002_col023.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 87.13
+            "confidence": 87.13,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 24,
             "filename": "tile_row002_col024.png",
             "predicted_class": "Residential",
-            "confidence": 62.1
+            "confidence": 62.1,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 25,
             "filename": "tile_row002_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.5
+            "confidence": 92.5,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 26,
             "filename": "tile_row002_col026.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 61.87
+            "confidence": 61.87,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 27,
             "filename": "tile_row002_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 82.11
+            "confidence": 82.11,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 28,
             "filename": "tile_row002_col028.png",
             "predicted_class": "Highway",
-            "confidence": 50.99
+            "confidence": 50.99,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 29,
             "filename": "tile_row002_col029.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 78.38
+            "confidence": 78.38,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 30,
             "filename": "tile_row002_col030.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 34.55
+            "confidence": 34.55,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 31,
             "filename": "tile_row002_col031.png",
             "predicted_class": "Residential",
-            "confidence": 59.8
+            "confidence": 59.8,
+            "district": "Osmangazi"
         },
         {
             "row": 2,
             "col": 32,
             "filename": "tile_row002_col032.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 82.23
+            "confidence": 82.23,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 33,
             "filename": "tile_row002_col033.png",
             "predicted_class": "Highway",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 34,
             "filename": "tile_row002_col034.png",
             "predicted_class": "Industrial",
-            "confidence": 57.49
+            "confidence": 57.49,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 35,
             "filename": "tile_row002_col035.png",
             "predicted_class": "Industrial",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 36,
             "filename": "tile_row002_col036.png",
             "predicted_class": "Industrial",
-            "confidence": 99.25
+            "confidence": 99.25,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 37,
             "filename": "tile_row002_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 89.17
+            "confidence": 89.17,
+            "district": "Yıldırım"
         },
         {
             "row": 2,
             "col": 38,
             "filename": "tile_row002_col038.png",
             "predicted_class": "Highway",
-            "confidence": 60.27
+            "confidence": 60.27,
+            "district": "Gürsu"
         },
         {
             "row": 3,
             "col": 0,
             "filename": "tile_row003_col000.png",
             "predicted_class": "Highway",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 1,
             "filename": "tile_row003_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 66.57
+            "confidence": 66.57,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 2,
             "filename": "tile_row003_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 56.98
+            "confidence": 56.98,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 3,
             "filename": "tile_row003_col003.png",
             "predicted_class": "Highway",
-            "confidence": 99.5
+            "confidence": 99.5,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 4,
             "filename": "tile_row003_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 88.71
+            "confidence": 88.71,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 5,
             "filename": "tile_row003_col005.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 41.55
+            "confidence": 41.55,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 6,
             "filename": "tile_row003_col006.png",
             "predicted_class": "Residential",
-            "confidence": 97.4
+            "confidence": 97.4,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 7,
             "filename": "tile_row003_col007.png",
             "predicted_class": "Residential",
-            "confidence": 99.68
+            "confidence": 99.68,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 8,
             "filename": "tile_row003_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 46.25
+            "confidence": 46.25,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 9,
             "filename": "tile_row003_col009.png",
             "predicted_class": "Residential",
-            "confidence": 92.49
+            "confidence": 92.49,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 10,
             "filename": "tile_row003_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 99.74
+            "confidence": 99.74,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 11,
             "filename": "tile_row003_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 12,
             "filename": "tile_row003_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 13,
             "filename": "tile_row003_col013.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 14,
             "filename": "tile_row003_col014.png",
             "predicted_class": "Industrial",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 15,
             "filename": "tile_row003_col015.png",
             "predicted_class": "Highway",
-            "confidence": 67.39
+            "confidence": 67.39,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 16,
             "filename": "tile_row003_col016.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 17,
             "filename": "tile_row003_col017.png",
             "predicted_class": "Residential",
-            "confidence": 96.24
+            "confidence": 96.24,
+            "district": "Nilüfer"
         },
         {
             "row": 3,
             "col": 18,
             "filename": "tile_row003_col018.png",
             "predicted_class": "Residential",
-            "confidence": 57.02
+            "confidence": 57.02,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 19,
             "filename": "tile_row003_col019.png",
             "predicted_class": "Residential",
-            "confidence": 40.44
+            "confidence": 40.44,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 20,
             "filename": "tile_row003_col020.png",
             "predicted_class": "Highway",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 21,
             "filename": "tile_row003_col021.png",
             "predicted_class": "Highway",
-            "confidence": 98.06
+            "confidence": 98.06,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 22,
             "filename": "tile_row003_col022.png",
             "predicted_class": "Industrial",
-            "confidence": 72.1
+            "confidence": 72.1,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 23,
             "filename": "tile_row003_col023.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 76.26
+            "confidence": 76.26,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 24,
             "filename": "tile_row003_col024.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 91.85
+            "confidence": 91.85,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 25,
             "filename": "tile_row003_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 56.76
+            "confidence": 56.76,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 26,
             "filename": "tile_row003_col026.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 93.5
+            "confidence": 93.5,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 27,
             "filename": "tile_row003_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 99.75
+            "confidence": 99.75,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 28,
             "filename": "tile_row003_col028.png",
             "predicted_class": "Industrial",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 29,
             "filename": "tile_row003_col029.png",
             "predicted_class": "Industrial",
-            "confidence": 56.37
+            "confidence": 56.37,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 30,
             "filename": "tile_row003_col030.png",
             "predicted_class": "Industrial",
-            "confidence": 98.18
+            "confidence": 98.18,
+            "district": "Osmangazi"
         },
         {
             "row": 3,
             "col": 31,
             "filename": "tile_row003_col031.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 34.64
+            "confidence": 34.64,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 32,
             "filename": "tile_row003_col032.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 97.22
+            "confidence": 97.22,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 33,
             "filename": "tile_row003_col033.png",
             "predicted_class": "Industrial",
-            "confidence": 71.83
+            "confidence": 71.83,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 34,
             "filename": "tile_row003_col034.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 55.17
+            "confidence": 55.17,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 35,
             "filename": "tile_row003_col035.png",
             "predicted_class": "Industrial",
-            "confidence": 95.39
+            "confidence": 95.39,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 36,
             "filename": "tile_row003_col036.png",
             "predicted_class": "Residential",
-            "confidence": 76.95
+            "confidence": 76.95,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 37,
             "filename": "tile_row003_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Yıldırım"
         },
         {
             "row": 3,
             "col": 38,
             "filename": "tile_row003_col038.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Gürsu"
         },
         {
             "row": 4,
             "col": 0,
             "filename": "tile_row004_col000.png",
             "predicted_class": "Highway",
-            "confidence": 99.28
+            "confidence": 99.28,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 1,
             "filename": "tile_row004_col001.png",
             "predicted_class": "Highway",
-            "confidence": 77.43
+            "confidence": 77.43,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 2,
             "filename": "tile_row004_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 94.81
+            "confidence": 94.81,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 3,
             "filename": "tile_row004_col003.png",
             "predicted_class": "Industrial",
-            "confidence": 87.83
+            "confidence": 87.83,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 4,
             "filename": "tile_row004_col004.png",
             "predicted_class": "Highway",
-            "confidence": 90.69
+            "confidence": 90.69,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 5,
             "filename": "tile_row004_col005.png",
             "predicted_class": "Residential",
-            "confidence": 85.8
+            "confidence": 85.8,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 6,
             "filename": "tile_row004_col006.png",
             "predicted_class": "Industrial",
-            "confidence": 78.38
+            "confidence": 78.38,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 7,
             "filename": "tile_row004_col007.png",
             "predicted_class": "Residential",
-            "confidence": 98.9
+            "confidence": 98.9,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 8,
             "filename": "tile_row004_col008.png",
             "predicted_class": "Residential",
-            "confidence": 76.79
+            "confidence": 76.79,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 9,
             "filename": "tile_row004_col009.png",
             "predicted_class": "Residential",
-            "confidence": 88.28
+            "confidence": 88.28,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 10,
             "filename": "tile_row004_col010.png",
             "predicted_class": "Highway",
-            "confidence": 51.43
+            "confidence": 51.43,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 11,
             "filename": "tile_row004_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 98.0
+            "confidence": 98.0,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 12,
             "filename": "tile_row004_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 99.84
+            "confidence": 99.84,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 13,
             "filename": "tile_row004_col013.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 14,
             "filename": "tile_row004_col014.png",
             "predicted_class": "Residential",
-            "confidence": 84.49
+            "confidence": 84.49,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 15,
             "filename": "tile_row004_col015.png",
             "predicted_class": "Industrial",
-            "confidence": 54.79
+            "confidence": 54.79,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 16,
             "filename": "tile_row004_col016.png",
             "predicted_class": "Residential",
-            "confidence": 98.87
+            "confidence": 98.87,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 17,
             "filename": "tile_row004_col017.png",
             "predicted_class": "Residential",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 18,
             "filename": "tile_row004_col018.png",
             "predicted_class": "Highway",
-            "confidence": 75.03
+            "confidence": 75.03,
+            "district": "Nilüfer"
         },
         {
             "row": 4,
             "col": 19,
             "filename": "tile_row004_col019.png",
             "predicted_class": "Industrial",
-            "confidence": 62.56
+            "confidence": 62.56,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 20,
             "filename": "tile_row004_col020.png",
             "predicted_class": "Residential",
-            "confidence": 99.64
+            "confidence": 99.64,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 21,
             "filename": "tile_row004_col021.png",
             "predicted_class": "Industrial",
-            "confidence": 65.15
+            "confidence": 65.15,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 22,
             "filename": "tile_row004_col022.png",
             "predicted_class": "Residential",
-            "confidence": 86.75
+            "confidence": 86.75,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 23,
             "filename": "tile_row004_col023.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 70.07
+            "confidence": 70.07,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 24,
             "filename": "tile_row004_col024.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 43.55
+            "confidence": 43.55,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 25,
             "filename": "tile_row004_col025.png",
             "predicted_class": "Industrial",
-            "confidence": 85.08
+            "confidence": 85.08,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 26,
             "filename": "tile_row004_col026.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 39.22
+            "confidence": 39.22,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 27,
             "filename": "tile_row004_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 96.59
+            "confidence": 96.59,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 28,
             "filename": "tile_row004_col028.png",
             "predicted_class": "Highway",
-            "confidence": 92.47
+            "confidence": 92.47,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 29,
             "filename": "tile_row004_col029.png",
             "predicted_class": "Industrial",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 30,
             "filename": "tile_row004_col030.png",
             "predicted_class": "Industrial",
-            "confidence": 98.95
+            "confidence": 98.95,
+            "district": "Osmangazi"
         },
         {
             "row": 4,
             "col": 31,
             "filename": "tile_row004_col031.png",
             "predicted_class": "Industrial",
-            "confidence": 43.26
+            "confidence": 43.26,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 32,
             "filename": "tile_row004_col032.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 67.96
+            "confidence": 67.96,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 33,
             "filename": "tile_row004_col033.png",
             "predicted_class": "Residential",
-            "confidence": 95.02
+            "confidence": 95.02,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 34,
             "filename": "tile_row004_col034.png",
             "predicted_class": "Highway",
-            "confidence": 97.94
+            "confidence": 97.94,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 35,
             "filename": "tile_row004_col035.png",
             "predicted_class": "Industrial",
-            "confidence": 98.61
+            "confidence": 98.61,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 36,
             "filename": "tile_row004_col036.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 93.07
+            "confidence": 93.07,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 37,
             "filename": "tile_row004_col037.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 63.42
+            "confidence": 63.42,
+            "district": "Yıldırım"
         },
         {
             "row": 4,
             "col": 38,
             "filename": "tile_row004_col038.png",
             "predicted_class": "Industrial",
-            "confidence": 68.16
+            "confidence": 68.16,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 0,
             "filename": "tile_row005_col000.png",
             "predicted_class": "Highway",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 1,
             "filename": "tile_row005_col001.png",
             "predicted_class": "Highway",
-            "confidence": 99.11
+            "confidence": 99.11,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 2,
             "filename": "tile_row005_col002.png",
             "predicted_class": "Industrial",
-            "confidence": 97.39
+            "confidence": 97.39,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 3,
             "filename": "tile_row005_col003.png",
             "predicted_class": "Highway",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 4,
             "filename": "tile_row005_col004.png",
             "predicted_class": "Highway",
-            "confidence": 98.98
+            "confidence": 98.98,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 5,
             "filename": "tile_row005_col005.png",
             "predicted_class": "Residential",
-            "confidence": 96.27
+            "confidence": 96.27,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 6,
             "filename": "tile_row005_col006.png",
             "predicted_class": "Residential",
-            "confidence": 98.83
+            "confidence": 98.83,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 7,
             "filename": "tile_row005_col007.png",
             "predicted_class": "Residential",
-            "confidence": 95.44
+            "confidence": 95.44,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 8,
             "filename": "tile_row005_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 99.6
+            "confidence": 99.6,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 9,
             "filename": "tile_row005_col009.png",
             "predicted_class": "Residential",
-            "confidence": 86.07
+            "confidence": 86.07,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 10,
             "filename": "tile_row005_col010.png",
             "predicted_class": "Residential",
-            "confidence": 94.93
+            "confidence": 94.93,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 11,
             "filename": "tile_row005_col011.png",
             "predicted_class": "Highway",
-            "confidence": 68.6
+            "confidence": 68.6,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 12,
             "filename": "tile_row005_col012.png",
             "predicted_class": "Residential",
-            "confidence": 66.81
+            "confidence": 66.81,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 13,
             "filename": "tile_row005_col013.png",
             "predicted_class": "Residential",
-            "confidence": 96.45
+            "confidence": 96.45,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 14,
             "filename": "tile_row005_col014.png",
             "predicted_class": "Residential",
-            "confidence": 96.46
+            "confidence": 96.46,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 15,
             "filename": "tile_row005_col015.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 16,
             "filename": "tile_row005_col016.png",
             "predicted_class": "Residential",
-            "confidence": 99.53
+            "confidence": 99.53,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 17,
             "filename": "tile_row005_col017.png",
             "predicted_class": "Residential",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 18,
             "filename": "tile_row005_col018.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 5,
             "col": 19,
             "filename": "tile_row005_col019.png",
             "predicted_class": "Residential",
-            "confidence": 99.59
+            "confidence": 99.59,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 20,
             "filename": "tile_row005_col020.png",
             "predicted_class": "Residential",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 21,
             "filename": "tile_row005_col021.png",
             "predicted_class": "Highway",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 22,
             "filename": "tile_row005_col022.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 94.19
+            "confidence": 94.19,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 23,
             "filename": "tile_row005_col023.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 86.99
+            "confidence": 86.99,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 24,
             "filename": "tile_row005_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.39
+            "confidence": 96.39,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 25,
             "filename": "tile_row005_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 68.27
+            "confidence": 68.27,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 26,
             "filename": "tile_row005_col026.png",
             "predicted_class": "Highway",
-            "confidence": 32.19
+            "confidence": 32.19,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 27,
             "filename": "tile_row005_col027.png",
             "predicted_class": "Industrial",
-            "confidence": 88.76
+            "confidence": 88.76,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 28,
             "filename": "tile_row005_col028.png",
             "predicted_class": "Residential",
-            "confidence": 92.96
+            "confidence": 92.96,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 29,
             "filename": "tile_row005_col029.png",
             "predicted_class": "Residential",
-            "confidence": 89.09
+            "confidence": 89.09,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 30,
             "filename": "tile_row005_col030.png",
             "predicted_class": "Industrial",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 5,
             "col": 31,
             "filename": "tile_row005_col031.png",
             "predicted_class": "Industrial",
-            "confidence": 69.92
+            "confidence": 69.92,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 32,
             "filename": "tile_row005_col032.png",
             "predicted_class": "Highway",
-            "confidence": 64.78
+            "confidence": 64.78,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 33,
             "filename": "tile_row005_col033.png",
             "predicted_class": "Residential",
-            "confidence": 95.65
+            "confidence": 95.65,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 34,
             "filename": "tile_row005_col034.png",
             "predicted_class": "Industrial",
-            "confidence": 70.33
+            "confidence": 70.33,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 35,
             "filename": "tile_row005_col035.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 72.99
+            "confidence": 72.99,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 36,
             "filename": "tile_row005_col036.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 84.69
+            "confidence": 84.69,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 37,
             "filename": "tile_row005_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 68.91
+            "confidence": 68.91,
+            "district": "Yıldırım"
         },
         {
             "row": 5,
             "col": 38,
             "filename": "tile_row005_col038.png",
             "predicted_class": "Residential",
-            "confidence": 87.34
+            "confidence": 87.34,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 0,
             "filename": "tile_row006_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.63
+            "confidence": 99.63,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 1,
             "filename": "tile_row006_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 98.58
+            "confidence": 98.58,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 2,
             "filename": "tile_row006_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 96.02
+            "confidence": 96.02,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 3,
             "filename": "tile_row006_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 83.68
+            "confidence": 83.68,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 4,
             "filename": "tile_row006_col004.png",
             "predicted_class": "Industrial",
-            "confidence": 41.43
+            "confidence": 41.43,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 5,
             "filename": "tile_row006_col005.png",
             "predicted_class": "Industrial",
-            "confidence": 99.71
+            "confidence": 99.71,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 6,
             "filename": "tile_row006_col006.png",
             "predicted_class": "Industrial",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 7,
             "filename": "tile_row006_col007.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 8,
             "filename": "tile_row006_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 97.56
+            "confidence": 97.56,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 9,
             "filename": "tile_row006_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 58.29
+            "confidence": 58.29,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 10,
             "filename": "tile_row006_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 79.24
+            "confidence": 79.24,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 11,
             "filename": "tile_row006_col011.png",
             "predicted_class": "Highway",
-            "confidence": 85.41
+            "confidence": 85.41,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 12,
             "filename": "tile_row006_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 88.6
+            "confidence": 88.6,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 13,
             "filename": "tile_row006_col013.png",
             "predicted_class": "Highway",
-            "confidence": 57.46
+            "confidence": 57.46,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 14,
             "filename": "tile_row006_col014.png",
             "predicted_class": "Residential",
-            "confidence": 97.51
+            "confidence": 97.51,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 15,
             "filename": "tile_row006_col015.png",
             "predicted_class": "Residential",
-            "confidence": 97.71
+            "confidence": 97.71,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 16,
             "filename": "tile_row006_col016.png",
             "predicted_class": "Residential",
-            "confidence": 99.93
+            "confidence": 99.93,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 17,
             "filename": "tile_row006_col017.png",
             "predicted_class": "Residential",
-            "confidence": 85.82
+            "confidence": 85.82,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 18,
             "filename": "tile_row006_col018.png",
             "predicted_class": "Residential",
-            "confidence": 99.86
+            "confidence": 99.86,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 19,
             "filename": "tile_row006_col019.png",
             "predicted_class": "Residential",
-            "confidence": 65.84
+            "confidence": 65.84,
+            "district": "Nilüfer"
         },
         {
             "row": 6,
             "col": 20,
             "filename": "tile_row006_col020.png",
             "predicted_class": "Highway",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 21,
             "filename": "tile_row006_col021.png",
             "predicted_class": "Highway",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 22,
             "filename": "tile_row006_col022.png",
             "predicted_class": "Highway",
-            "confidence": 71.3
+            "confidence": 71.3,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 23,
             "filename": "tile_row006_col023.png",
             "predicted_class": "Residential",
-            "confidence": 93.26
+            "confidence": 93.26,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 24,
             "filename": "tile_row006_col024.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 25,
             "filename": "tile_row006_col025.png",
             "predicted_class": "Residential",
-            "confidence": 61.32
+            "confidence": 61.32,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 26,
             "filename": "tile_row006_col026.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 27,
             "filename": "tile_row006_col027.png",
             "predicted_class": "Highway",
-            "confidence": 91.55
+            "confidence": 91.55,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 28,
             "filename": "tile_row006_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 29,
             "filename": "tile_row006_col029.png",
             "predicted_class": "Residential",
-            "confidence": 97.93
+            "confidence": 97.93,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 30,
             "filename": "tile_row006_col030.png",
             "predicted_class": "Industrial",
-            "confidence": 73.37
+            "confidence": 73.37,
+            "district": "Osmangazi"
         },
         {
             "row": 6,
             "col": 31,
             "filename": "tile_row006_col031.png",
             "predicted_class": "Residential",
-            "confidence": 96.02
+            "confidence": 96.02,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 32,
             "filename": "tile_row006_col032.png",
             "predicted_class": "Residential",
-            "confidence": 99.62
+            "confidence": 99.62,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 33,
             "filename": "tile_row006_col033.png",
             "predicted_class": "Highway",
-            "confidence": 68.28
+            "confidence": 68.28,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 34,
             "filename": "tile_row006_col034.png",
             "predicted_class": "Highway",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 35,
             "filename": "tile_row006_col035.png",
             "predicted_class": "River",
-            "confidence": 37.19
+            "confidence": 37.19,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 36,
             "filename": "tile_row006_col036.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 89.0
+            "confidence": 89.0,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 37,
             "filename": "tile_row006_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 98.7
+            "confidence": 98.7,
+            "district": "Yıldırım"
         },
         {
             "row": 6,
             "col": 38,
             "filename": "tile_row006_col038.png",
             "predicted_class": "Residential",
-            "confidence": 67.95
+            "confidence": 67.95,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 0,
             "filename": "tile_row007_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.76
+            "confidence": 99.76,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 1,
             "filename": "tile_row007_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 76.98
+            "confidence": 76.98,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 2,
             "filename": "tile_row007_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.01
+            "confidence": 99.01,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 3,
             "filename": "tile_row007_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 46.93
+            "confidence": 46.93,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 4,
             "filename": "tile_row007_col004.png",
             "predicted_class": "Industrial",
-            "confidence": 77.68
+            "confidence": 77.68,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 5,
             "filename": "tile_row007_col005.png",
             "predicted_class": "Industrial",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 6,
             "filename": "tile_row007_col006.png",
             "predicted_class": "Industrial",
-            "confidence": 86.39
+            "confidence": 86.39,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 7,
             "filename": "tile_row007_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 84.66
+            "confidence": 84.66,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 8,
             "filename": "tile_row007_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 9,
             "filename": "tile_row007_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 99.64
+            "confidence": 99.64,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 10,
             "filename": "tile_row007_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 98.15
+            "confidence": 98.15,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 11,
             "filename": "tile_row007_col011.png",
             "predicted_class": "Residential",
-            "confidence": 69.8
+            "confidence": 69.8,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 12,
             "filename": "tile_row007_col012.png",
             "predicted_class": "Residential",
-            "confidence": 99.51
+            "confidence": 99.51,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 13,
             "filename": "tile_row007_col013.png",
             "predicted_class": "Highway",
-            "confidence": 49.18
+            "confidence": 49.18,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 14,
             "filename": "tile_row007_col014.png",
             "predicted_class": "Residential",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 15,
             "filename": "tile_row007_col015.png",
             "predicted_class": "Residential",
-            "confidence": 99.77
+            "confidence": 99.77,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 16,
             "filename": "tile_row007_col016.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 17,
             "filename": "tile_row007_col017.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 18,
             "filename": "tile_row007_col018.png",
             "predicted_class": "Industrial",
-            "confidence": 53.53
+            "confidence": 53.53,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 19,
             "filename": "tile_row007_col019.png",
             "predicted_class": "Industrial",
-            "confidence": 87.79
+            "confidence": 87.79,
+            "district": "Nilüfer"
         },
         {
             "row": 7,
             "col": 20,
             "filename": "tile_row007_col020.png",
             "predicted_class": "Residential",
-            "confidence": 98.23
+            "confidence": 98.23,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 21,
             "filename": "tile_row007_col021.png",
             "predicted_class": "Residential",
-            "confidence": 86.23
+            "confidence": 86.23,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 22,
             "filename": "tile_row007_col022.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 23,
             "filename": "tile_row007_col023.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 24,
             "filename": "tile_row007_col024.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 25,
             "filename": "tile_row007_col025.png",
             "predicted_class": "Residential",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 26,
             "filename": "tile_row007_col026.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 27,
             "filename": "tile_row007_col027.png",
             "predicted_class": "Residential",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 28,
             "filename": "tile_row007_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 29,
             "filename": "tile_row007_col029.png",
             "predicted_class": "Residential",
-            "confidence": 94.43
+            "confidence": 94.43,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 30,
             "filename": "tile_row007_col030.png",
             "predicted_class": "Residential",
-            "confidence": 73.21
+            "confidence": 73.21,
+            "district": "Osmangazi"
         },
         {
             "row": 7,
             "col": 31,
             "filename": "tile_row007_col031.png",
             "predicted_class": "Residential",
-            "confidence": 99.82
+            "confidence": 99.82,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 32,
             "filename": "tile_row007_col032.png",
             "predicted_class": "Residential",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 33,
             "filename": "tile_row007_col033.png",
             "predicted_class": "Industrial",
-            "confidence": 53.75
+            "confidence": 53.75,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 34,
             "filename": "tile_row007_col034.png",
             "predicted_class": "Highway",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 35,
             "filename": "tile_row007_col035.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 39.93
+            "confidence": 39.93,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 36,
             "filename": "tile_row007_col036.png",
             "predicted_class": "Residential",
-            "confidence": 91.49
+            "confidence": 91.49,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 37,
             "filename": "tile_row007_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 99.79
+            "confidence": 99.79,
+            "district": "Yıldırım"
         },
         {
             "row": 7,
             "col": 38,
             "filename": "tile_row007_col038.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 67.63
+            "confidence": 67.63,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 0,
             "filename": "tile_row008_col000.png",
             "predicted_class": "River",
-            "confidence": 51.46
+            "confidence": 51.46,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 1,
             "filename": "tile_row008_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 96.61
+            "confidence": 96.61,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 2,
             "filename": "tile_row008_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 54.44
+            "confidence": 54.44,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 3,
             "filename": "tile_row008_col003.png",
             "predicted_class": "Residential",
-            "confidence": 87.2
+            "confidence": 87.2,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 4,
             "filename": "tile_row008_col004.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 98.86
+            "confidence": 98.86,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 5,
             "filename": "tile_row008_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.08
+            "confidence": 99.08,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 6,
             "filename": "tile_row008_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 39.26
+            "confidence": 39.26,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 7,
             "filename": "tile_row008_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 88.31
+            "confidence": 88.31,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 8,
             "filename": "tile_row008_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 98.0
+            "confidence": 98.0,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 9,
             "filename": "tile_row008_col009.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 90.38
+            "confidence": 90.38,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 10,
             "filename": "tile_row008_col010.png",
             "predicted_class": "Pasture",
-            "confidence": 50.27
+            "confidence": 50.27,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 11,
             "filename": "tile_row008_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 99.66
+            "confidence": 99.66,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 12,
             "filename": "tile_row008_col012.png",
             "predicted_class": "Residential",
-            "confidence": 99.81
+            "confidence": 99.81,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 13,
             "filename": "tile_row008_col013.png",
             "predicted_class": "Residential",
-            "confidence": 97.15
+            "confidence": 97.15,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 14,
             "filename": "tile_row008_col014.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 15,
             "filename": "tile_row008_col015.png",
             "predicted_class": "Residential",
-            "confidence": 57.05
+            "confidence": 57.05,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 16,
             "filename": "tile_row008_col016.png",
             "predicted_class": "Residential",
-            "confidence": 97.36
+            "confidence": 97.36,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 17,
             "filename": "tile_row008_col017.png",
             "predicted_class": "Residential",
-            "confidence": 99.88
+            "confidence": 99.88,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 18,
             "filename": "tile_row008_col018.png",
             "predicted_class": "Industrial",
-            "confidence": 85.85
+            "confidence": 85.85,
+            "district": "Nilüfer"
         },
         {
             "row": 8,
             "col": 19,
             "filename": "tile_row008_col019.png",
             "predicted_class": "Industrial",
-            "confidence": 42.01
+            "confidence": 42.01,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 20,
             "filename": "tile_row008_col020.png",
             "predicted_class": "Residential",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 21,
             "filename": "tile_row008_col021.png",
             "predicted_class": "Residential",
-            "confidence": 99.44
+            "confidence": 99.44,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 22,
             "filename": "tile_row008_col022.png",
             "predicted_class": "Residential",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 23,
             "filename": "tile_row008_col023.png",
             "predicted_class": "Residential",
-            "confidence": 99.95
+            "confidence": 99.95,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 24,
             "filename": "tile_row008_col024.png",
             "predicted_class": "Residential",
-            "confidence": 90.36
+            "confidence": 90.36,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 25,
             "filename": "tile_row008_col025.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 26,
             "filename": "tile_row008_col026.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 27,
             "filename": "tile_row008_col027.png",
             "predicted_class": "Residential",
-            "confidence": 99.93
+            "confidence": 99.93,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 28,
             "filename": "tile_row008_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 29,
             "filename": "tile_row008_col029.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 30,
             "filename": "tile_row008_col030.png",
             "predicted_class": "Residential",
-            "confidence": 56.41
+            "confidence": 56.41,
+            "district": "Osmangazi"
         },
         {
             "row": 8,
             "col": 31,
             "filename": "tile_row008_col031.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 32,
             "filename": "tile_row008_col032.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 33,
             "filename": "tile_row008_col033.png",
             "predicted_class": "Industrial",
-            "confidence": 65.58
+            "confidence": 65.58,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 34,
             "filename": "tile_row008_col034.png",
             "predicted_class": "Residential",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 35,
             "filename": "tile_row008_col035.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 36,
             "filename": "tile_row008_col036.png",
             "predicted_class": "Highway",
-            "confidence": 94.26
+            "confidence": 94.26,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 37,
             "filename": "tile_row008_col037.png",
             "predicted_class": "Industrial",
-            "confidence": 93.46
+            "confidence": 93.46,
+            "district": "Yıldırım"
         },
         {
             "row": 8,
             "col": 38,
             "filename": "tile_row008_col038.png",
             "predicted_class": "Industrial",
-            "confidence": 98.63
+            "confidence": 98.63,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 0,
             "filename": "tile_row009_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 61.87
+            "confidence": 61.87,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 1,
             "filename": "tile_row009_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 97.89
+            "confidence": 97.89,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 2,
             "filename": "tile_row009_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 89.14
+            "confidence": 89.14,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 3,
             "filename": "tile_row009_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 80.71
+            "confidence": 80.71,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 4,
             "filename": "tile_row009_col004.png",
             "predicted_class": "Industrial",
-            "confidence": 45.44
+            "confidence": 45.44,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 5,
             "filename": "tile_row009_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 83.49
+            "confidence": 83.49,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 6,
             "filename": "tile_row009_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.21
+            "confidence": 99.21,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 7,
             "filename": "tile_row009_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 75.22
+            "confidence": 75.22,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 8,
             "filename": "tile_row009_col008.png",
             "predicted_class": "Residential",
-            "confidence": 99.45
+            "confidence": 99.45,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 9,
             "filename": "tile_row009_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 87.8
+            "confidence": 87.8,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 10,
             "filename": "tile_row009_col010.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 98.7
+            "confidence": 98.7,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 11,
             "filename": "tile_row009_col011.png",
             "predicted_class": "Industrial",
-            "confidence": 60.22
+            "confidence": 60.22,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 12,
             "filename": "tile_row009_col012.png",
             "predicted_class": "Residential",
-            "confidence": 99.93
+            "confidence": 99.93,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 13,
             "filename": "tile_row009_col013.png",
             "predicted_class": "Residential",
-            "confidence": 99.95
+            "confidence": 99.95,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 14,
             "filename": "tile_row009_col014.png",
             "predicted_class": "Residential",
-            "confidence": 99.93
+            "confidence": 99.93,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 15,
             "filename": "tile_row009_col015.png",
             "predicted_class": "Residential",
-            "confidence": 99.32
+            "confidence": 99.32,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 16,
             "filename": "tile_row009_col016.png",
             "predicted_class": "Residential",
-            "confidence": 99.85
+            "confidence": 99.85,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 17,
             "filename": "tile_row009_col017.png",
             "predicted_class": "Residential",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 18,
             "filename": "tile_row009_col018.png",
             "predicted_class": "Residential",
-            "confidence": 87.14
+            "confidence": 87.14,
+            "district": "Nilüfer"
         },
         {
             "row": 9,
             "col": 19,
             "filename": "tile_row009_col019.png",
             "predicted_class": "Residential",
-            "confidence": 89.18
+            "confidence": 89.18,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 20,
             "filename": "tile_row009_col020.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 21,
             "filename": "tile_row009_col021.png",
             "predicted_class": "Residential",
-            "confidence": 99.83
+            "confidence": 99.83,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 22,
             "filename": "tile_row009_col022.png",
             "predicted_class": "SeaLake",
-            "confidence": 67.49
+            "confidence": 67.49,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 23,
             "filename": "tile_row009_col023.png",
             "predicted_class": "Forest",
-            "confidence": 52.77
+            "confidence": 52.77,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 24,
             "filename": "tile_row009_col024.png",
             "predicted_class": "Residential",
-            "confidence": 78.15
+            "confidence": 78.15,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 25,
             "filename": "tile_row009_col025.png",
             "predicted_class": "Industrial",
-            "confidence": 85.63
+            "confidence": 85.63,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 26,
             "filename": "tile_row009_col026.png",
             "predicted_class": "Residential",
-            "confidence": 48.92
+            "confidence": 48.92,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 27,
             "filename": "tile_row009_col027.png",
             "predicted_class": "Residential",
-            "confidence": 97.22
+            "confidence": 97.22,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 28,
             "filename": "tile_row009_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 29,
             "filename": "tile_row009_col029.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 30,
             "filename": "tile_row009_col030.png",
             "predicted_class": "Residential",
-            "confidence": 73.44
+            "confidence": 73.44,
+            "district": "Osmangazi"
         },
         {
             "row": 9,
             "col": 31,
             "filename": "tile_row009_col031.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 32,
             "filename": "tile_row009_col032.png",
             "predicted_class": "Residential",
-            "confidence": 99.77
+            "confidence": 99.77,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 33,
             "filename": "tile_row009_col033.png",
             "predicted_class": "Residential",
-            "confidence": 99.56
+            "confidence": 99.56,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 34,
             "filename": "tile_row009_col034.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 35,
             "filename": "tile_row009_col035.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 36,
             "filename": "tile_row009_col036.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 37,
             "filename": "tile_row009_col037.png",
             "predicted_class": "Residential",
-            "confidence": 83.87
+            "confidence": 83.87,
+            "district": "Yıldırım"
         },
         {
             "row": 9,
             "col": 38,
             "filename": "tile_row009_col038.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 0,
             "filename": "tile_row010_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 96.96
+            "confidence": 96.96,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 1,
             "filename": "tile_row010_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 2,
             "filename": "tile_row010_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.3
+            "confidence": 99.3,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 3,
             "filename": "tile_row010_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 62.5
+            "confidence": 62.5,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 4,
             "filename": "tile_row010_col004.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 90.99
+            "confidence": 90.99,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 5,
             "filename": "tile_row010_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 79.42
+            "confidence": 79.42,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 6,
             "filename": "tile_row010_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.46
+            "confidence": 99.46,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 7,
             "filename": "tile_row010_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 90.28
+            "confidence": 90.28,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 8,
             "filename": "tile_row010_col008.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 87.36
+            "confidence": 87.36,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 9,
             "filename": "tile_row010_col009.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 87.83
+            "confidence": 87.83,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 10,
             "filename": "tile_row010_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 97.24
+            "confidence": 97.24,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 11,
             "filename": "tile_row010_col011.png",
             "predicted_class": "Residential",
-            "confidence": 85.96
+            "confidence": 85.96,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 12,
             "filename": "tile_row010_col012.png",
             "predicted_class": "Industrial",
-            "confidence": 60.38
+            "confidence": 60.38,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 13,
             "filename": "tile_row010_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 53.38
+            "confidence": 53.38,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 14,
             "filename": "tile_row010_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 67.73
+            "confidence": 67.73,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 15,
             "filename": "tile_row010_col015.png",
             "predicted_class": "Residential",
-            "confidence": 98.82
+            "confidence": 98.82,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 16,
             "filename": "tile_row010_col016.png",
             "predicted_class": "Residential",
-            "confidence": 97.91
+            "confidence": 97.91,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 17,
             "filename": "tile_row010_col017.png",
             "predicted_class": "Highway",
-            "confidence": 99.65
+            "confidence": 99.65,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 18,
             "filename": "tile_row010_col018.png",
             "predicted_class": "Residential",
-            "confidence": 94.33
+            "confidence": 94.33,
+            "district": "Nilüfer"
         },
         {
             "row": 10,
             "col": 19,
             "filename": "tile_row010_col019.png",
             "predicted_class": "Highway",
-            "confidence": 71.85
+            "confidence": 71.85,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 20,
             "filename": "tile_row010_col020.png",
             "predicted_class": "Residential",
-            "confidence": 82.6
+            "confidence": 82.6,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 21,
             "filename": "tile_row010_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.55
+            "confidence": 99.55,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 22,
             "filename": "tile_row010_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 93.22
+            "confidence": 93.22,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 23,
             "filename": "tile_row010_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.91
+            "confidence": 92.91,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 24,
             "filename": "tile_row010_col024.png",
             "predicted_class": "Residential",
-            "confidence": 86.88
+            "confidence": 86.88,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 25,
             "filename": "tile_row010_col025.png",
             "predicted_class": "Residential",
-            "confidence": 99.95
+            "confidence": 99.95,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 26,
             "filename": "tile_row010_col026.png",
             "predicted_class": "Residential",
-            "confidence": 99.77
+            "confidence": 99.77,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 27,
             "filename": "tile_row010_col027.png",
             "predicted_class": "Residential",
-            "confidence": 99.12
+            "confidence": 99.12,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 28,
             "filename": "tile_row010_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 29,
             "filename": "tile_row010_col029.png",
             "predicted_class": "Residential",
-            "confidence": 99.81
+            "confidence": 99.81,
+            "district": "Osmangazi"
         },
         {
             "row": 10,
             "col": 30,
             "filename": "tile_row010_col030.png",
             "predicted_class": "Residential",
-            "confidence": 90.4
+            "confidence": 90.4,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 31,
             "filename": "tile_row010_col031.png",
             "predicted_class": "Residential",
-            "confidence": 99.92
+            "confidence": 99.92,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 32,
             "filename": "tile_row010_col032.png",
             "predicted_class": "Residential",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 33,
             "filename": "tile_row010_col033.png",
             "predicted_class": "Industrial",
-            "confidence": 90.93
+            "confidence": 90.93,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 34,
             "filename": "tile_row010_col034.png",
             "predicted_class": "Residential",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 35,
             "filename": "tile_row010_col035.png",
             "predicted_class": "Residential",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 36,
             "filename": "tile_row010_col036.png",
             "predicted_class": "Residential",
-            "confidence": 79.9
+            "confidence": 79.9,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 37,
             "filename": "tile_row010_col037.png",
             "predicted_class": "Highway",
-            "confidence": 98.75
+            "confidence": 98.75,
+            "district": "Yıldırım"
         },
         {
             "row": 10,
             "col": 38,
             "filename": "tile_row010_col038.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 0,
             "filename": "tile_row011_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.02
+            "confidence": 99.02,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 1,
             "filename": "tile_row011_col001.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.92
+            "confidence": 99.92,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 2,
             "filename": "tile_row011_col002.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 56.6
+            "confidence": 56.6,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 3,
             "filename": "tile_row011_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 39.02
+            "confidence": 39.02,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 4,
             "filename": "tile_row011_col004.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.83
+            "confidence": 99.83,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 5,
             "filename": "tile_row011_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 6,
             "filename": "tile_row011_col006.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 97.26
+            "confidence": 97.26,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 7,
             "filename": "tile_row011_col007.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.57
+            "confidence": 99.57,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 8,
             "filename": "tile_row011_col008.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 99.55
+            "confidence": 99.55,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 9,
             "filename": "tile_row011_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 99.6
+            "confidence": 99.6,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 10,
             "filename": "tile_row011_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 47.0
+            "confidence": 47.0,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 11,
             "filename": "tile_row011_col011.png",
             "predicted_class": "Residential",
-            "confidence": 80.74
+            "confidence": 80.74,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 12,
             "filename": "tile_row011_col012.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 65.58
+            "confidence": 65.58,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 13,
             "filename": "tile_row011_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.06
+            "confidence": 99.06,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 14,
             "filename": "tile_row011_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.99
+            "confidence": 92.99,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 15,
             "filename": "tile_row011_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 90.39
+            "confidence": 90.39,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 16,
             "filename": "tile_row011_col016.png",
             "predicted_class": "Highway",
-            "confidence": 98.98
+            "confidence": 98.98,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 17,
             "filename": "tile_row011_col017.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.4
+            "confidence": 95.4,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 18,
             "filename": "tile_row011_col018.png",
             "predicted_class": "Forest",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Nilüfer"
         },
         {
             "row": 11,
             "col": 19,
             "filename": "tile_row011_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.31
+            "confidence": 99.31,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 20,
             "filename": "tile_row011_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.39
+            "confidence": 98.39,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 21,
             "filename": "tile_row011_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 62.33
+            "confidence": 62.33,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 22,
             "filename": "tile_row011_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.73
+            "confidence": 95.73,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 23,
             "filename": "tile_row011_col023.png",
             "predicted_class": "Forest",
-            "confidence": 55.0
+            "confidence": 55.0,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 24,
             "filename": "tile_row011_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 80.94
+            "confidence": 80.94,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 25,
             "filename": "tile_row011_col025.png",
             "predicted_class": "Residential",
-            "confidence": 99.01
+            "confidence": 99.01,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 26,
             "filename": "tile_row011_col026.png",
             "predicted_class": "Residential",
-            "confidence": 98.79
+            "confidence": 98.79,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 27,
             "filename": "tile_row011_col027.png",
             "predicted_class": "Residential",
-            "confidence": 99.81
+            "confidence": 99.81,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 28,
             "filename": "tile_row011_col028.png",
             "predicted_class": "Residential",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Osmangazi"
         },
         {
             "row": 11,
             "col": 29,
             "filename": "tile_row011_col029.png",
             "predicted_class": "Residential",
-            "confidence": 99.85
+            "confidence": 99.85,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 30,
             "filename": "tile_row011_col030.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 31,
             "filename": "tile_row011_col031.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 32,
             "filename": "tile_row011_col032.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 33,
             "filename": "tile_row011_col033.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 34,
             "filename": "tile_row011_col034.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 35,
             "filename": "tile_row011_col035.png",
             "predicted_class": "Residential",
-            "confidence": 98.9
+            "confidence": 98.9,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 36,
             "filename": "tile_row011_col036.png",
             "predicted_class": "Residential",
-            "confidence": 90.03
+            "confidence": 90.03,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 37,
             "filename": "tile_row011_col037.png",
             "predicted_class": "Residential",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Yıldırım"
         },
         {
             "row": 11,
             "col": 38,
             "filename": "tile_row011_col038.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 0,
             "filename": "tile_row012_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 53.35
+            "confidence": 53.35,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 1,
             "filename": "tile_row012_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 67.26
+            "confidence": 67.26,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 2,
             "filename": "tile_row012_col002.png",
             "predicted_class": "Pasture",
-            "confidence": 29.97
+            "confidence": 29.97,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 3,
             "filename": "tile_row012_col003.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 84.07
+            "confidence": 84.07,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 4,
             "filename": "tile_row012_col004.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 88.43
+            "confidence": 88.43,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 5,
             "filename": "tile_row012_col005.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 54.91
+            "confidence": 54.91,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 6,
             "filename": "tile_row012_col006.png",
             "predicted_class": "Industrial",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 7,
             "filename": "tile_row012_col007.png",
             "predicted_class": "Industrial",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 8,
             "filename": "tile_row012_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 95.38
+            "confidence": 95.38,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 9,
             "filename": "tile_row012_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 98.73
+            "confidence": 98.73,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 10,
             "filename": "tile_row012_col010.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 46.06
+            "confidence": 46.06,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 11,
             "filename": "tile_row012_col011.png",
             "predicted_class": "Residential",
-            "confidence": 99.78
+            "confidence": 99.78,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 12,
             "filename": "tile_row012_col012.png",
             "predicted_class": "Residential",
-            "confidence": 86.91
+            "confidence": 86.91,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 13,
             "filename": "tile_row012_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.28
+            "confidence": 96.28,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 14,
             "filename": "tile_row012_col014.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 96.58
+            "confidence": 96.58,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 15,
             "filename": "tile_row012_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 87.14
+            "confidence": 87.14,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 16,
             "filename": "tile_row012_col016.png",
             "predicted_class": "Highway",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 17,
             "filename": "tile_row012_col017.png",
             "predicted_class": "Forest",
-            "confidence": 91.14
+            "confidence": 91.14,
+            "district": "Nilüfer"
         },
         {
             "row": 12,
             "col": 18,
             "filename": "tile_row012_col018.png",
             "predicted_class": "Forest",
-            "confidence": 96.65
+            "confidence": 96.65,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 19,
             "filename": "tile_row012_col019.png",
             "predicted_class": "Forest",
-            "confidence": 94.61
+            "confidence": 94.61,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 20,
             "filename": "tile_row012_col020.png",
             "predicted_class": "Forest",
-            "confidence": 71.34
+            "confidence": 71.34,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 21,
             "filename": "tile_row012_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 91.95
+            "confidence": 91.95,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 22,
             "filename": "tile_row012_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.05
+            "confidence": 95.05,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 23,
             "filename": "tile_row012_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 84.49
+            "confidence": 84.49,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 24,
             "filename": "tile_row012_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 88.39
+            "confidence": 88.39,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 25,
             "filename": "tile_row012_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 93.8
+            "confidence": 93.8,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 26,
             "filename": "tile_row012_col026.png",
             "predicted_class": "Residential",
-            "confidence": 85.92
+            "confidence": 85.92,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 27,
             "filename": "tile_row012_col027.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 12,
             "col": 28,
             "filename": "tile_row012_col028.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 29,
             "filename": "tile_row012_col029.png",
             "predicted_class": "Residential",
-            "confidence": 99.77
+            "confidence": 99.77,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 30,
             "filename": "tile_row012_col030.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 31,
             "filename": "tile_row012_col031.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 32,
             "filename": "tile_row012_col032.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 33,
             "filename": "tile_row012_col033.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 34,
             "filename": "tile_row012_col034.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 35,
             "filename": "tile_row012_col035.png",
             "predicted_class": "Residential",
-            "confidence": 99.86
+            "confidence": 99.86,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 36,
             "filename": "tile_row012_col036.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 37,
             "filename": "tile_row012_col037.png",
             "predicted_class": "Residential",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Yıldırım"
         },
         {
             "row": 12,
             "col": 38,
             "filename": "tile_row012_col038.png",
             "predicted_class": "Residential",
-            "confidence": 87.84
+            "confidence": 87.84,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 0,
             "filename": "tile_row013_col000.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 54.51
+            "confidence": 54.51,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 1,
             "filename": "tile_row013_col001.png",
             "predicted_class": "Industrial",
-            "confidence": 80.17
+            "confidence": 80.17,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 2,
             "filename": "tile_row013_col002.png",
             "predicted_class": "Industrial",
-            "confidence": 53.16
+            "confidence": 53.16,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 3,
             "filename": "tile_row013_col003.png",
             "predicted_class": "Residential",
-            "confidence": 86.42
+            "confidence": 86.42,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 4,
             "filename": "tile_row013_col004.png",
             "predicted_class": "Industrial",
-            "confidence": 96.49
+            "confidence": 96.49,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 5,
             "filename": "tile_row013_col005.png",
             "predicted_class": "Industrial",
-            "confidence": 99.72
+            "confidence": 99.72,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 6,
             "filename": "tile_row013_col006.png",
             "predicted_class": "Residential",
-            "confidence": 60.96
+            "confidence": 60.96,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 7,
             "filename": "tile_row013_col007.png",
             "predicted_class": "Industrial",
-            "confidence": 87.78
+            "confidence": 87.78,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 8,
             "filename": "tile_row013_col008.png",
             "predicted_class": "Industrial",
-            "confidence": 85.39
+            "confidence": 85.39,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 9,
             "filename": "tile_row013_col009.png",
             "predicted_class": "Industrial",
-            "confidence": 95.33
+            "confidence": 95.33,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 10,
             "filename": "tile_row013_col010.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 48.02
+            "confidence": 48.02,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 11,
             "filename": "tile_row013_col011.png",
             "predicted_class": "Residential",
-            "confidence": 97.37
+            "confidence": 97.37,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 12,
             "filename": "tile_row013_col012.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 60.39
+            "confidence": 60.39,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 13,
             "filename": "tile_row013_col013.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 89.7
+            "confidence": 89.7,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 14,
             "filename": "tile_row013_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 43.76
+            "confidence": 43.76,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 15,
             "filename": "tile_row013_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 94.8
+            "confidence": 94.8,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 16,
             "filename": "tile_row013_col016.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 54.91
+            "confidence": 54.91,
+            "district": "Nilüfer"
         },
         {
             "row": 13,
             "col": 17,
             "filename": "tile_row013_col017.png",
             "predicted_class": "Forest",
-            "confidence": 95.74
+            "confidence": 95.74,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 18,
             "filename": "tile_row013_col018.png",
             "predicted_class": "Forest",
-            "confidence": 99.02
+            "confidence": 99.02,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 19,
             "filename": "tile_row013_col019.png",
             "predicted_class": "Forest",
-            "confidence": 86.16
+            "confidence": 86.16,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 20,
             "filename": "tile_row013_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 21,
             "filename": "tile_row013_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.64
+            "confidence": 92.64,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 22,
             "filename": "tile_row013_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 81.93
+            "confidence": 81.93,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 23,
             "filename": "tile_row013_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 24,
             "filename": "tile_row013_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 25,
             "filename": "tile_row013_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.76
+            "confidence": 97.76,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 26,
             "filename": "tile_row013_col026.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 27,
             "filename": "tile_row013_col027.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.28
+            "confidence": 95.28,
+            "district": "Osmangazi"
         },
         {
             "row": 13,
             "col": 28,
             "filename": "tile_row013_col028.png",
             "predicted_class": "Residential",
-            "confidence": 94.31
+            "confidence": 94.31,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 29,
             "filename": "tile_row013_col029.png",
             "predicted_class": "Residential",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 30,
             "filename": "tile_row013_col030.png",
             "predicted_class": "Residential",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 31,
             "filename": "tile_row013_col031.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 32,
             "filename": "tile_row013_col032.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 33,
             "filename": "tile_row013_col033.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 34,
             "filename": "tile_row013_col034.png",
             "predicted_class": "Residential",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 35,
             "filename": "tile_row013_col035.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 88.84
+            "confidence": 88.84,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 36,
             "filename": "tile_row013_col036.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 56.2
+            "confidence": 56.2,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 37,
             "filename": "tile_row013_col037.png",
             "predicted_class": "Forest",
-            "confidence": 68.82
+            "confidence": 68.82,
+            "district": "Yıldırım"
         },
         {
             "row": 13,
             "col": 38,
             "filename": "tile_row013_col038.png",
             "predicted_class": "Forest",
-            "confidence": 89.13
+            "confidence": 89.13,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 0,
             "filename": "tile_row014_col000.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.99
+            "confidence": 98.99,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 1,
             "filename": "tile_row014_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 59.28
+            "confidence": 59.28,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 2,
             "filename": "tile_row014_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.6
+            "confidence": 99.6,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 3,
             "filename": "tile_row014_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.84
+            "confidence": 97.84,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 4,
             "filename": "tile_row014_col004.png",
             "predicted_class": "Forest",
-            "confidence": 74.6
+            "confidence": 74.6,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 5,
             "filename": "tile_row014_col005.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.78
+            "confidence": 95.78,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 6,
             "filename": "tile_row014_col006.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.11
+            "confidence": 97.11,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 7,
             "filename": "tile_row014_col007.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 81.24
+            "confidence": 81.24,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 8,
             "filename": "tile_row014_col008.png",
             "predicted_class": "Residential",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 9,
             "filename": "tile_row014_col009.png",
             "predicted_class": "Residential",
-            "confidence": 99.95
+            "confidence": 99.95,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 10,
             "filename": "tile_row014_col010.png",
             "predicted_class": "Industrial",
-            "confidence": 99.64
+            "confidence": 99.64,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 11,
             "filename": "tile_row014_col011.png",
             "predicted_class": "PermanentCrop",
-            "confidence": 48.14
+            "confidence": 48.14,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 12,
             "filename": "tile_row014_col012.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.28
+            "confidence": 99.28,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 13,
             "filename": "tile_row014_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 53.6
+            "confidence": 53.6,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 14,
             "filename": "tile_row014_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 15,
             "filename": "tile_row014_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.94
+            "confidence": 99.94,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 16,
             "filename": "tile_row014_col016.png",
             "predicted_class": "Highway",
-            "confidence": 82.11
+            "confidence": 82.11,
+            "district": "Nilüfer"
         },
         {
             "row": 14,
             "col": 17,
             "filename": "tile_row014_col017.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.21
+            "confidence": 97.21,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 18,
             "filename": "tile_row014_col018.png",
             "predicted_class": "Forest",
-            "confidence": 71.61
+            "confidence": 71.61,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 19,
             "filename": "tile_row014_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 20,
             "filename": "tile_row014_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 91.22
+            "confidence": 91.22,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 21,
             "filename": "tile_row014_col021.png",
             "predicted_class": "Forest",
-            "confidence": 63.0
+            "confidence": 63.0,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 22,
             "filename": "tile_row014_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.72
+            "confidence": 97.72,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 23,
             "filename": "tile_row014_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.28
+            "confidence": 99.28,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 24,
             "filename": "tile_row014_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.9
+            "confidence": 98.9,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 25,
             "filename": "tile_row014_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.39
+            "confidence": 99.39,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 26,
             "filename": "tile_row014_col026.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 84.22
+            "confidence": 84.22,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 27,
             "filename": "tile_row014_col027.png",
             "predicted_class": "Forest",
-            "confidence": 66.11
+            "confidence": 66.11,
+            "district": "Osmangazi"
         },
         {
             "row": 14,
             "col": 28,
             "filename": "tile_row014_col028.png",
             "predicted_class": "Forest",
-            "confidence": 95.06
+            "confidence": 95.06,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 29,
             "filename": "tile_row014_col029.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 57.46
+            "confidence": 57.46,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 30,
             "filename": "tile_row014_col030.png",
             "predicted_class": "Residential",
-            "confidence": 99.2
+            "confidence": 99.2,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 31,
             "filename": "tile_row014_col031.png",
             "predicted_class": "Residential",
-            "confidence": 98.05
+            "confidence": 98.05,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 32,
             "filename": "tile_row014_col032.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 89.53
+            "confidence": 89.53,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 33,
             "filename": "tile_row014_col033.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 86.47
+            "confidence": 86.47,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 34,
             "filename": "tile_row014_col034.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 67.26
+            "confidence": 67.26,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 35,
             "filename": "tile_row014_col035.png",
             "predicted_class": "Forest",
-            "confidence": 92.02
+            "confidence": 92.02,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 36,
             "filename": "tile_row014_col036.png",
             "predicted_class": "Forest",
-            "confidence": 99.55
+            "confidence": 99.55,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 37,
             "filename": "tile_row014_col037.png",
             "predicted_class": "Forest",
-            "confidence": 99.85
+            "confidence": 99.85,
+            "district": "Yıldırım"
         },
         {
             "row": 14,
             "col": 38,
             "filename": "tile_row014_col038.png",
             "predicted_class": "Forest",
-            "confidence": 99.95
+            "confidence": 99.95,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 0,
             "filename": "tile_row015_col000.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.24
+            "confidence": 95.24,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 1,
             "filename": "tile_row015_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 84.19
+            "confidence": 84.19,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 2,
             "filename": "tile_row015_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.64
+            "confidence": 92.64,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 3,
             "filename": "tile_row015_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.16
+            "confidence": 99.16,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 4,
             "filename": "tile_row015_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 85.42
+            "confidence": 85.42,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 5,
             "filename": "tile_row015_col005.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.2
+            "confidence": 99.2,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 6,
             "filename": "tile_row015_col006.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 81.41
+            "confidence": 81.41,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 7,
             "filename": "tile_row015_col007.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.72
+            "confidence": 99.72,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 8,
             "filename": "tile_row015_col008.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.49
+            "confidence": 96.49,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 9,
             "filename": "tile_row015_col009.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.98
+            "confidence": 99.98,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 10,
             "filename": "tile_row015_col010.png",
             "predicted_class": "Forest",
-            "confidence": 67.84
+            "confidence": 67.84,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 11,
             "filename": "tile_row015_col011.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 96.7
+            "confidence": 96.7,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 12,
             "filename": "tile_row015_col012.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 85.63
+            "confidence": 85.63,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 13,
             "filename": "tile_row015_col013.png",
             "predicted_class": "Forest",
-            "confidence": 51.52
+            "confidence": 51.52,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 14,
             "filename": "tile_row015_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 67.88
+            "confidence": 67.88,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 15,
             "filename": "tile_row015_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 16,
             "filename": "tile_row015_col016.png",
             "predicted_class": "Highway",
-            "confidence": 99.96
+            "confidence": 99.96,
+            "district": "Nilüfer"
         },
         {
             "row": 15,
             "col": 17,
             "filename": "tile_row015_col017.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.02
+            "confidence": 99.02,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 18,
             "filename": "tile_row015_col018.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.53
+            "confidence": 99.53,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 19,
             "filename": "tile_row015_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.99
+            "confidence": 99.99,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 20,
             "filename": "tile_row015_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.04
+            "confidence": 98.04,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 21,
             "filename": "tile_row015_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.49
+            "confidence": 98.49,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 22,
             "filename": "tile_row015_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.31
+            "confidence": 98.31,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 23,
             "filename": "tile_row015_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 85.08
+            "confidence": 85.08,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 24,
             "filename": "tile_row015_col024.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.29
+            "confidence": 97.29,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 25,
             "filename": "tile_row015_col025.png",
             "predicted_class": "Forest",
-            "confidence": 95.47
+            "confidence": 95.47,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 26,
             "filename": "tile_row015_col026.png",
             "predicted_class": "Forest",
-            "confidence": 97.14
+            "confidence": 97.14,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 27,
             "filename": "tile_row015_col027.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 53.75
+            "confidence": 53.75,
+            "district": "Osmangazi"
         },
         {
             "row": 15,
             "col": 28,
             "filename": "tile_row015_col028.png",
             "predicted_class": "Forest",
-            "confidence": 90.34
+            "confidence": 90.34,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 29,
             "filename": "tile_row015_col029.png",
             "predicted_class": "Forest",
-            "confidence": 84.14
+            "confidence": 84.14,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 30,
             "filename": "tile_row015_col030.png",
             "predicted_class": "Forest",
-            "confidence": 95.46
+            "confidence": 95.46,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 31,
             "filename": "tile_row015_col031.png",
             "predicted_class": "Forest",
-            "confidence": 88.33
+            "confidence": 88.33,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 32,
             "filename": "tile_row015_col032.png",
             "predicted_class": "Forest",
-            "confidence": 55.48
+            "confidence": 55.48,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 33,
             "filename": "tile_row015_col033.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 78.79
+            "confidence": 78.79,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 34,
             "filename": "tile_row015_col034.png",
             "predicted_class": "Forest",
-            "confidence": 96.28
+            "confidence": 96.28,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 35,
             "filename": "tile_row015_col035.png",
             "predicted_class": "Forest",
-            "confidence": 99.81
+            "confidence": 99.81,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 36,
             "filename": "tile_row015_col036.png",
             "predicted_class": "Forest",
-            "confidence": 99.59
+            "confidence": 99.59,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 37,
             "filename": "tile_row015_col037.png",
             "predicted_class": "Forest",
-            "confidence": 98.5
+            "confidence": 98.5,
+            "district": "Yıldırım"
         },
         {
             "row": 15,
             "col": 38,
             "filename": "tile_row015_col038.png",
             "predicted_class": "Forest",
-            "confidence": 70.23
+            "confidence": 70.23,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 0,
             "filename": "tile_row016_col000.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.85
+            "confidence": 98.85,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 1,
             "filename": "tile_row016_col001.png",
             "predicted_class": "Forest",
-            "confidence": 67.15
+            "confidence": 67.15,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 2,
             "filename": "tile_row016_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 3,
             "filename": "tile_row016_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.85
+            "confidence": 99.85,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 4,
             "filename": "tile_row016_col004.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 90.09
+            "confidence": 90.09,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 5,
             "filename": "tile_row016_col005.png",
             "predicted_class": "Forest",
-            "confidence": 99.23
+            "confidence": 99.23,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 6,
             "filename": "tile_row016_col006.png",
             "predicted_class": "Forest",
-            "confidence": 63.16
+            "confidence": 63.16,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 7,
             "filename": "tile_row016_col007.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.81
+            "confidence": 98.81,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 8,
             "filename": "tile_row016_col008.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.21
+            "confidence": 99.21,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 9,
             "filename": "tile_row016_col009.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.97
+            "confidence": 99.97,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 10,
             "filename": "tile_row016_col010.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 63.42
+            "confidence": 63.42,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 11,
             "filename": "tile_row016_col011.png",
             "predicted_class": "Forest",
-            "confidence": 95.4
+            "confidence": 95.4,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 12,
             "filename": "tile_row016_col012.png",
             "predicted_class": "Forest",
-            "confidence": 99.71
+            "confidence": 99.71,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 13,
             "filename": "tile_row016_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 93.3
+            "confidence": 93.3,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 14,
             "filename": "tile_row016_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 63.46
+            "confidence": 63.46,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 15,
             "filename": "tile_row016_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 16,
             "filename": "tile_row016_col016.png",
             "predicted_class": "Highway",
-            "confidence": 98.05
+            "confidence": 98.05,
+            "district": "Nilüfer"
         },
         {
             "row": 16,
             "col": 17,
             "filename": "tile_row016_col017.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.53
+            "confidence": 97.53,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 18,
             "filename": "tile_row016_col018.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.8
+            "confidence": 99.8,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 19,
             "filename": "tile_row016_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.91
+            "confidence": 99.91,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 20,
             "filename": "tile_row016_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.99
+            "confidence": 98.99,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 21,
             "filename": "tile_row016_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.85
+            "confidence": 99.85,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 22,
             "filename": "tile_row016_col022.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 23,
             "filename": "tile_row016_col023.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.32
+            "confidence": 99.32,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 24,
             "filename": "tile_row016_col024.png",
             "predicted_class": "Forest",
-            "confidence": 88.85
+            "confidence": 88.85,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 25,
             "filename": "tile_row016_col025.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 51.52
+            "confidence": 51.52,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 26,
             "filename": "tile_row016_col026.png",
             "predicted_class": "Forest",
-            "confidence": 98.84
+            "confidence": 98.84,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 27,
             "filename": "tile_row016_col027.png",
             "predicted_class": "Forest",
-            "confidence": 82.06
+            "confidence": 82.06,
+            "district": "Osmangazi"
         },
         {
             "row": 16,
             "col": 28,
             "filename": "tile_row016_col028.png",
             "predicted_class": "Forest",
-            "confidence": 95.48
+            "confidence": 95.48,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 29,
             "filename": "tile_row016_col029.png",
             "predicted_class": "Forest",
-            "confidence": 97.57
+            "confidence": 97.57,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 30,
             "filename": "tile_row016_col030.png",
             "predicted_class": "Forest",
-            "confidence": 63.9
+            "confidence": 63.9,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 31,
             "filename": "tile_row016_col031.png",
             "predicted_class": "Forest",
-            "confidence": 58.24
+            "confidence": 58.24,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 32,
             "filename": "tile_row016_col032.png",
             "predicted_class": "SeaLake",
-            "confidence": 57.21
+            "confidence": 57.21,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 33,
             "filename": "tile_row016_col033.png",
             "predicted_class": "Forest",
-            "confidence": 97.87
+            "confidence": 97.87,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 34,
             "filename": "tile_row016_col034.png",
             "predicted_class": "Forest",
-            "confidence": 91.71
+            "confidence": 91.71,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 35,
             "filename": "tile_row016_col035.png",
             "predicted_class": "Forest",
-            "confidence": 98.71
+            "confidence": 98.71,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 36,
             "filename": "tile_row016_col036.png",
             "predicted_class": "Forest",
-            "confidence": 97.09
+            "confidence": 97.09,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 37,
             "filename": "tile_row016_col037.png",
             "predicted_class": "Forest",
-            "confidence": 49.54
+            "confidence": 49.54,
+            "district": "Yıldırım"
         },
         {
             "row": 16,
             "col": 38,
             "filename": "tile_row016_col038.png",
             "predicted_class": "Forest",
-            "confidence": 74.22
+            "confidence": 74.22,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 0,
             "filename": "tile_row017_col000.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.8
+            "confidence": 99.8,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 1,
             "filename": "tile_row017_col001.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 93.49
+            "confidence": 93.49,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 2,
             "filename": "tile_row017_col002.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.9
+            "confidence": 99.9,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 3,
             "filename": "tile_row017_col003.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 83.36
+            "confidence": 83.36,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 4,
             "filename": "tile_row017_col004.png",
             "predicted_class": "Forest",
-            "confidence": 95.26
+            "confidence": 95.26,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 5,
             "filename": "tile_row017_col005.png",
             "predicted_class": "Forest",
-            "confidence": 99.72
+            "confidence": 99.72,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 6,
             "filename": "tile_row017_col006.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.89
+            "confidence": 99.89,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 7,
             "filename": "tile_row017_col007.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 100.0
+            "confidence": 100.0,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 8,
             "filename": "tile_row017_col008.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.77
+            "confidence": 99.77,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 9,
             "filename": "tile_row017_col009.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.88
+            "confidence": 99.88,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 10,
             "filename": "tile_row017_col010.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 91.76
+            "confidence": 91.76,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 11,
             "filename": "tile_row017_col011.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 81.6
+            "confidence": 81.6,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 12,
             "filename": "tile_row017_col012.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 97.37
+            "confidence": 97.37,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 13,
             "filename": "tile_row017_col013.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.64
+            "confidence": 99.64,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 14,
             "filename": "tile_row017_col014.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.7
+            "confidence": 99.7,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 15,
             "filename": "tile_row017_col015.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.51
+            "confidence": 99.51,
+            "district": "Nilüfer"
         },
         {
             "row": 17,
             "col": 16,
             "filename": "tile_row017_col016.png",
             "predicted_class": "Highway",
-            "confidence": 98.65
+            "confidence": 98.65,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 17,
             "filename": "tile_row017_col017.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 88.7
+            "confidence": 88.7,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 18,
             "filename": "tile_row017_col018.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 92.75
+            "confidence": 92.75,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 19,
             "filename": "tile_row017_col019.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 95.53
+            "confidence": 95.53,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 20,
             "filename": "tile_row017_col020.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 98.87
+            "confidence": 98.87,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 21,
             "filename": "tile_row017_col021.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 99.59
+            "confidence": 99.59,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 22,
             "filename": "tile_row017_col022.png",
             "predicted_class": "Forest",
-            "confidence": 63.06
+            "confidence": 63.06,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 23,
             "filename": "tile_row017_col023.png",
             "predicted_class": "Forest",
-            "confidence": 96.43
+            "confidence": 96.43,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 24,
             "filename": "tile_row017_col024.png",
             "predicted_class": "Forest",
-            "confidence": 55.0
+            "confidence": 55.0,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 25,
             "filename": "tile_row017_col025.png",
             "predicted_class": "Forest",
-            "confidence": 88.59
+            "confidence": 88.59,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 26,
             "filename": "tile_row017_col026.png",
             "predicted_class": "Forest",
-            "confidence": 93.41
+            "confidence": 93.41,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 27,
             "filename": "tile_row017_col027.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 75.52
+            "confidence": 75.52,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 28,
             "filename": "tile_row017_col028.png",
             "predicted_class": "Forest",
-            "confidence": 90.98
+            "confidence": 90.98,
+            "district": "Osmangazi"
         },
         {
             "row": 17,
             "col": 29,
             "filename": "tile_row017_col029.png",
             "predicted_class": "Forest",
-            "confidence": 96.38
+            "confidence": 96.38,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 30,
             "filename": "tile_row017_col030.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 94.64
+            "confidence": 94.64,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 31,
             "filename": "tile_row017_col031.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 62.43
+            "confidence": 62.43,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 32,
             "filename": "tile_row017_col032.png",
             "predicted_class": "HerbaceousVegetation",
-            "confidence": 58.84
+            "confidence": 58.84,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 33,
             "filename": "tile_row017_col033.png",
             "predicted_class": "Forest",
-            "confidence": 86.01
+            "confidence": 86.01,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 34,
             "filename": "tile_row017_col034.png",
             "predicted_class": "Forest",
-            "confidence": 98.91
+            "confidence": 98.91,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 35,
             "filename": "tile_row017_col035.png",
             "predicted_class": "Forest",
-            "confidence": 99.45
+            "confidence": 99.45,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 36,
             "filename": "tile_row017_col036.png",
             "predicted_class": "SeaLake",
-            "confidence": 88.07
+            "confidence": 88.07,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 37,
             "filename": "tile_row017_col037.png",
             "predicted_class": "SeaLake",
-            "confidence": 90.66
+            "confidence": 90.66,
+            "district": "Yıldırım"
         },
         {
             "row": 17,
             "col": 38,
             "filename": "tile_row017_col038.png",
             "predicted_class": "Forest",
-            "confidence": 97.85
+            "confidence": 97.85,
+            "district": "Yıldırım"
         }
     ]
 }
