@@ -1,6 +1,7 @@
 import os
 import json
 from collections import Counter
+import urllib.parse
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
@@ -104,3 +105,55 @@ def get_change(district: Optional[str] = None):
         }
 
     return {"change_by_class": change}
+
+@app.get("/api/districts")
+def get_districts():
+    """Return the list of unique district names."""
+    data = load_classification_data(2020)
+    districts = sorted(set(
+        t.get("district") for t in data["tiles"]
+        if t.get("district") not in (None, "Out of Bounds")
+    ))
+    return {"districts": districts}
+
+@app.get("/api/district/{district_name}/stats/{year}")
+def get_district_stats(district_name: str, year: int):
+    """Class distribution for one district in one year."""
+    if year not in VALID_YEARS:
+        raise HTTPException(status_code=400, detail=f"Year must be one of {VALID_YEARS}")
+    data = load_classification_data(year)
+    tiles = [t for t in data["tiles"] if t.get("district", "").lower() == district_name.lower()]
+    if not tiles:
+        raise HTTPException(status_code=404, detail=f"No tiles found for '{district_name}'")
+    total = len(tiles)
+    counts = Counter(t["predicted_class"] for t in tiles)
+    return {
+        "district": district_name,
+        "year": year,
+        "total_tiles": total,
+        "distribution": {
+            cls: {"count": c, "percentage": round((c / total) * 100, 2)}
+            for cls, c in sorted(counts.items())
+        }
+    }
+
+@app.get("/api/district/{district_name}/change")
+def get_district_change(district_name: str):
+    """2020 vs 2025 comparison for one district."""
+    s2020 = get_district_stats(district_name, 2020)
+    s2025 = get_district_stats(district_name, 2025)
+    all_classes = set(s2020["distribution"]) | set(s2025["distribution"])
+    return {
+        "district": district_name,
+        "change_by_class": {
+            cls: {
+                "2020": s2020["distribution"].get(cls, {}).get("percentage", 0.0),
+                "2025": s2025["distribution"].get(cls, {}).get("percentage", 0.0),
+                "delta": round(
+                    s2025["distribution"].get(cls, {}).get("percentage", 0.0) -
+                    s2020["distribution"].get(cls, {}).get("percentage", 0.0), 2
+                )
+            }
+            for cls in sorted(all_classes)
+        }
+    }
