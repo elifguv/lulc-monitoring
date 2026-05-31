@@ -31,7 +31,7 @@ export default function ChangeLineChart({ changeData }) {
             top: 4,
             right: 8,
             left: isMobile ? -28 : -20,
-            bottom: isMobile ? 40 : 48
+            bottom: isMobile ? 48 : 56
           }}
         >
           <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
@@ -44,11 +44,14 @@ export default function ChangeLineChart({ changeData }) {
           />
           <YAxis tick={{ fontSize: 10 }} tickFormatter={v => `${v}%`} />
           <Tooltip formatter={v => `${v.toFixed(1)}%`} />
-          <Legend wrapperStyle={{ fontSize: 11 }} />
+          <Legend 
+            verticalAlign="top"        // ← moves legend above the chart
+            align="right"
+            wrapperStyle={{ fontSize: 11 }} />
           <Line type="monotone" dataKey="2020" stroke="#93c5fd" strokeWidth={2} dot={false} />
           <Line type="monotone" dataKey="2025" stroke="#1d4ed8" strokeWidth={2} dot={false} />
         </LineChart>
-      </ResponsiveContainer>
+      </ResponsiveContainer> 
     </div>
   );
 }

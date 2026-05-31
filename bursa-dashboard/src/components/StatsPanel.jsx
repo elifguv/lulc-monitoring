@@ -31,6 +31,19 @@ export default function StatsPanel({ selectedDistrict, onBack, data, loading }) 
               Showing data for <strong style={{ color: "#1a1a1a" }}>{selectedDistrict}</strong>
             </p>
           )}
+
+          {selectedDistrict && data.stats2020 && data.stats2020.total_tiles < 20 && (
+            <div style={{
+              background: "#fef9c3", border: "1px solid #fde047",
+              borderRadius: 10, padding: "10px 14px",
+              fontSize: 12, color: "#854d0e", lineHeight: 1.5
+            }}>
+              ⚠️ <strong>{selectedDistrict}</strong> only has{" "}
+              <strong>{data.stats2020.total_tiles} tiles</strong> — statistics
+              may not be reliable for this district.
+            </div>
+          )}
+          
           <ChangeLineChart changeData={data.change} />
           <DonutChart distribution={data.stats2020?.distribution} year="2020" />
           <DonutChart distribution={data.stats2025?.distribution} year="2025" />

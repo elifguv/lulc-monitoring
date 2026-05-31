@@ -61,17 +61,27 @@ export default function BursaMap({ selectedDistrict, onDistrictClick }) {
     });
   };
 
+  // SouthWest corner and NorthEast corner of Bursa
+  const bursaBounds = [
+    [39.4, 27.8],         
+    [40.9, 30.2]  
+  ];
+
   return (
     <div style={{ position: "relative", width: "100%", height: "100%", borderRadius: "16px", overflow: "hidden" }}>
       <MapContainer
         center={[40.1828, 29.0667]} // GPS coordinates for the center of Bursa
         zoom={9}
+        minZoom={9} // Prevents the user from zooming out to see the whole world
+        maxZoom={13}   
+        maxBounds={bursaBounds} // Traps the user inside Bursa coordinates
+        maxBoundsViscosity={1.0}
         style={{ width: "100%", height: "100%" }}
       >
-        {/* The base map underneath data */}
+        {/* The standart OpenStreetMap map underneath data */}
         <TileLayer
-          url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png"
-          attribution='&copy; <a href="https://carto.com/">CartoDB</a>'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
         
         {/* District Polygons */}
