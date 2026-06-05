@@ -1,4 +1,5 @@
 import os
+import numpy as np 
 import matplotlib.pyplot as plt
 from dotenv import load_dotenv
 from sentinelhub import (
@@ -19,8 +20,8 @@ config.sh_client_secret = os.getenv('SH_CLIENT_SECRET')
 config.sh_base_url = "https://sh.dataspace.copernicus.eu"
 config.sh_token_url = "https://identity.dataspace.copernicus.eu/auth/realms/CDSE/protocol/openid-connect/token"
 
-# Target specifications (Bursa)
-bursa_coords = [28.85, 40.15, 29.15, 40.25]
+# Target specifications (Bursa) - Nilüfer, Osmangazi, Yıldırım, Gürsu, Mudanya, Gemlik, Kestel
+bursa_coords = [28.75, 40.10, 29.25, 40.35]
 bursa_bbox = BBox(bbox=bursa_coords, crs=CRS.WGS84)
 
 # Calculate image dimensions for a 10m/pixel resolution
@@ -36,7 +37,7 @@ print(f"Target Image Resolution: {image_size[0]} x {image_size[1]} pixels")
 
 
 def fetch_bursa_image(year):
-    print(f"Requesting Sentinel-2 L2A data for Summer {year}...")
+    print(f"Requesting Sentinel-2 L1C data for Summer {year}...")
     time_interval = (f'{year}-06-01', f'{year}-08-31')
 
     output_folder = f'bursa_raw_data_{year}'
@@ -64,7 +65,6 @@ def fetch_bursa_image(year):
         evalscript=evalscript_true_color,
         input_data=[
             SentinelHubRequest.input_data(
-                # FIX 2: Changed L1C → L2A for atmospherically corrected surface reflectance
                 data_collection=DataCollection.SENTINEL2_L1C.define_from(
                     "s2l1c_cdse", service_url=config.sh_base_url
                 ),

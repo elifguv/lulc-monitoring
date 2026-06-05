@@ -3,7 +3,7 @@ import os
 from shapely.geometry import Point, shape
 
 # Configuration
-BBOX = [28.85, 40.15, 29.15, 40.25] # [min_lon, min_lat, max_lon, max_lat]
+BBOX = [28.75, 40.10, 29.25, 40.35] # [min_lon, min_lat, max_lon, max_lat]
 MIN_LON, MIN_LAT, MAX_LON, MAX_LAT = BBOX
 
 def add_districts_to_json(input_json, output_json, geojson_file):
