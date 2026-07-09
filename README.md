@@ -124,8 +124,24 @@ Then start the web dashboard and explore districts on the map.
 
 ## Findings
 
+
+<table>
+  <tr>
+    <td><img src="assets/classification_2020_regions.png" width="400" alt="2020"></td>
+    <td><img src="assets/classification_2025_regions.png" width="400" alt="2025"></td>
+  </tr>
+</table>
+
 - A notable expansion of the PermanentCrop class was detected in the İnegöl and Yenişehir districts, and this finding was validated against TÜİK (Turkish Statistical Institute) crop production statistics.
 - The model distinguished major geographic features (the Sea of Marmara, the forests of Mount Uludağ, urban centers) in a geographically consistent manner.
+
+## Screenshots
+
+### Province-wide View
+![Dashboard overview](assets/dashboard_overview.png)
+
+### District-level Analysis
+![District view](assets/dashboard_district.png)
 
 ## Known Limitations
 
